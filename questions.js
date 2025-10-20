@@ -276,6 +276,63 @@ function getDefaultQuestions() {
                         }
                     ]
                 },
+
+                           {
+                    name: "Physics",
+                    questions: [
+                        {
+                            question: "What does the acronym LASER stand for?",
+                            answer: "Light Amplification by the Stimulated Emission of Radiation",
+                            difficulty: 1
+                        },
+                        {
+                            question: "What is the SI unit of Pressure",
+                            answer: "Pascal",
+                            difficulty: 1
+                        },
+                        {
+                            question: "Whose law explains how pressure is distributed in a tooth paste tube?",
+                            answer: "Bernouli's Principle",
+                            difficulty: 2
+                        },
+                        {
+                            question: "The application of a seatbelt in a car is a consequence of which specific law in Physics?",
+                            answer: "Newton's first law of motion",
+                            difficulty: 2
+                        },
+                        {
+                            question: "What is the first name of the man after whom Boolean logic is named?",
+                            answer: "George",
+                            difficulty: 3
+                        },
+                        {
+                            question: "Which branch of Physics studies heat and its application?",
+                            answer: "Thermodynamics",
+                            difficulty: 3
+                        },
+                        {
+                            question: "How many nanometers are there in 2 angstroms?",
+                            answer: "0.2 nanometers",
+                            difficulty: 4
+                        },
+                        {
+                            question: "What is the value of the speed of light to 5 decimal places?",
+                            answer: "2.99792 x 10^8 meters per second",
+                            difficulty: 4
+                        },
+                        {
+                            question: "Who discovered the Neutron and in what year?",
+                            answer: "James Chadwick, 1932",
+                            difficulty: 5
+                        },
+                        {
+                            question: "Who discovered UV radiation?",
+                            answer: "Johann Wilhelm Ritter",
+                            difficulty: 5
+                        }
+                    ]
+                },
+                    
                 {
                     name: "Computer Science",
                     questions: [
